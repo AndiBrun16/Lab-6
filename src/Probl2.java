@@ -1,6 +1,5 @@
-package src;
-import src.altpachet.NewIntCalculator;
-import src.altpachet.DoubleCalculator;
+import altpachet.NewIntCalculator;
+import altpachet.DoubleCalculator;
 
 public class Probl2 {
     public static void main(String[] args) {
